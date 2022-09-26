@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\UNACH\8vo\Graficacion\proyectos\puntomedio\puntomedio\Source.cpp(61,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  puntomedio.vcxproj -> D:\UNACH\8vo\Graficacion\proyectos\puntomedio\Debug\puntomedio.exe
